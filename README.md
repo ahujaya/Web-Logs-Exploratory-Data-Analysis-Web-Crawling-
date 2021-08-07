@@ -7,7 +7,8 @@ and discover user accessing patterns of different web pages. The Web server is u
 
 --Task Description
 This task requires you to construct a data dictionary and develop a data exploration report for the provided Hotel TULIP Web log dataset. Without exploration or further analysis, ‘raw’ Web log data hardly reveals any insightful information. In this part, you are required to complete the Python code snippets to generate suitable numeric and visual description in the Hotel TULIP Web log dataset based on the detailed requirements in SIT742Task1.ipynb, and develop the report SIT742Task1Report.pdf to summarise the descriptive statistics information. The detailed requirements can also be found in the notebook SIT742Task1.ipynb, here we summarise them as follows:
-1. ETL
+
+1.ETL
 --Data Loading:
 Complete the Python code snippets in SIT742Task1.ipynb as required in notebook, and complete the data
 dictionary and report.
