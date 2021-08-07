@@ -50,8 +50,7 @@ a web crawler, design and complete the code in the notebook and make sure that t
 meets the requirements. You are free to use any Python package for Web crawling.
 1. Professor list generation
 - You will need to import the suitable (or your chosen)web crawling library and use the corresponding library
-to crawl the School of IT staff list page: https://www.deakin.edu.au/information-technology/
-staff-listing.
+to crawl the School of IT staff list page from [here] (https://www.deakin.edu.au/information-technology/staff-listing)
 - Import and install your web crawling library
 You could use selenium by doing the pip install selenium, download the webdriver for chromedriver and
 define your webdriver for crawling. But you are free to use any other library.
