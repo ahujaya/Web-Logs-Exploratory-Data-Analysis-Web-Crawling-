@@ -5,23 +5,23 @@ Here is the hypothetical background:
 Hotel TULIP (a hypothetical organisation) is a five star hotel that locates in Australia. It is a very special hotel with an equally special purpose: Not only does it embody all the creative energy and spirit of TULIP-Lab, it’s a “learning environment” on which the tourism and hospitality students are trained for future hoteliers. In the past two decades, the Web server of Hotel TULIP has logged all the web traffic to the hotel website, and stored large amount of data related to the use of various web pages. The hotel’s CIO, Dr Bear Guts (not Bill Gates!), believes that those log files are great resources to help their Information Technology Division improve their potential customers’ online experience, and help their Market Promotion Division to identify potential customers and their behaviour patterns. Hence, Hotel TULIP would like to outsource the web usage mining task to Group-SIT742 (a hypothetical data analytics group with up to 3 data analysers) to analyse web log files
 and discover user accessing patterns of different web pages. The Web server is using Microsoft Internet Information Service (IIS), and the Web log format can be found at: https://msdn.microsoft.com/en-us/library/ms525807(v=vs.90).aspx You are employed within Hotel TULIP working in the Information Technology Division. Your manager, Dr Beer Guts (also not Bill Gates!), has asked you to prepare a set of documents for Group-SIT742 so that they can have an initial understanding of the data to be analysed.
 
---Task Description
+- Task Description
 This task requires you to construct a data dictionary and develop a data exploration report for the provided Hotel TULIP Web log dataset. Without exploration or further analysis, ‘raw’ Web log data hardly reveals any insightful information. In this part, you are required to complete the Python code snippets to generate suitable numeric and visual description in the Hotel TULIP Web log dataset based on the detailed requirements in SIT742Task1.ipynb, and develop the report SIT742Task1Report.pdf to summarise the descriptive statistics information. The detailed requirements can also be found in the notebook SIT742Task1.ipynb, here we summarise them as follows:
 
-1.ETL
---Data Loading:
+1. ETL
+- Data Loading:
 Complete the Python code snippets in SIT742Task1.ipynb as required in notebook, and complete the data
 dictionary and report.
 Code Load (may need unzip first) the Hotel TULIP Web log data HTWebLog_p1.zip into dataframe df_ht,
 and check how many files are loaded. Then check data statistics and general information by printing
 its top 5 rows.
---Data Dictionary: Fill the data dictionary based on the Python code results.
+- Data Dictionary: Fill the data dictionary based on the Python code results.
 For a data scientist or business analyst, after obtaining the dataset, the first crucial task is to obtain
 a good understanding of the data to be analysed. This includes: examining the data attributes (or
 equivalently, data fields), seeing what they look like, what is the data type for each field, and from this
 information, determining suitable numerical/visual descriptions.
 
-1.2 Data Cleaning (2 marks)
+2. Data Cleaning (2 marks)
 Complete the Python code snippets in SIT742Task1.ipynb as required in notebook, and complete the data
 dictionary and report.
 Code • Check which columns have NAs,
