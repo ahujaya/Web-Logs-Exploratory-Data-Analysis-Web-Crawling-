@@ -21,7 +21,7 @@ equivalently, data fields), seeing what they look like, what is the data type fo
 information, determining suitable numerical/visual descriptions.
 
 2. Data Cleaning
-Complete the Python code snippets in SIT742Task1.ipynb as required in notebook, and complete the data
+- Complete the Python code snippets in SIT742Task1.ipynb as required in notebook, and complete the data
 dictionary and report.
 Code: Check which columns have NAs. For each of those columns, display how many records with NA values. Remove all records with any NAs.
 Report: The number NAs for each column. The number of rows before removing NAs. The number of rows after removing NAs.
@@ -49,7 +49,7 @@ IT, Deakin university wants to collect all the citation information on them. You
 a web crawler, design and complete the code in the notebook and make sure that the web crawling code
 meets the requirements. You are free to use any Python package for Web crawling.
 1. Professor list generation
-You will need to import the suitable (or your chosen)web crawling library and use the corresponding library
+- You will need to import the suitable (or your chosen)web crawling library and use the corresponding library
 to crawl the School of IT staff list page: https://www.deakin.edu.au/information-technology/
 staff-listing.
 - Import and install your web crawling library
