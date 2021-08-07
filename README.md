@@ -60,8 +60,7 @@ The code must contain the necessary web crawling steps and necessary data save s
 code running will generate the Professor-list.csv.
 
 2. Professor Citation Information generation
-- Professor citation information generation 
-You will need to use the generated Professor-list.csv to identify each professor’s google scholar profile
+- You will need to use the generated Professor-list.csv to identify each professor’s google scholar profile
 page in google scholar platform, and then to crawl the citation information from each google scholar profile.
 You will need to design your code by using loops and condition statement (as some of the professors did
 not have google scholar profile) to complete this requirement. The results of code running will generate the
